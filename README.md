@@ -14,6 +14,9 @@ There's only one app flow that works so far.  Here are the instructions:
 - The next few screens show the "ingredients" to the app. Just hit Next and leave everything pre-selected.
 - You can see the app you made, then hit Publish to create the app, and hit the link.
 
+More info:
+http://labs.whatthedruck.com/mobile-app-maker-making-apps-from-your-mobile-device
+
 Note:
 It's buggy right now, and only the Custom list item works.  The user can create a custom restaurant finder app, and then share it with friends, so they can find restaurants in their immediate vicinity.
 
